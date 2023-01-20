@@ -1,5 +1,5 @@
-= System Reference Document Community Code of Conduct =
-== Contributor Code of Conduct ==
+# System Reference Document Community Code of Conduct
+## Contributor Code of Conduct
 As contributors and maintainers of the projects under the System Reference Document repository, and in the interest of fostering an open and welcoming community, we pledge to respect all people who contribute through reporting issues, posting feature requests, updating documentation, submitting pull requests or patches, and other activities to any of the projects under the System Reference Document umbrella. These projects include SRD 5.1, SRD 6.0, et al. as found here.
 
 We are committed to making participation in these projects a harassment-free experience for everyone, regardless of level of experience, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, or nationality.
@@ -18,7 +18,7 @@ This code of conduct applies both within project spaces and in public spaces whe
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting a maintainer of the project, Scott McCarty scott@1989games.com, and/or Mike Panetta mike21989games.com.
 
-== System Reference Document Events Code of Conduct ==
+## System Reference Document Events Code of Conduct
 System Reference Document events are working conferences intended for professional networking and collaboration in the Containers community. Attendees are expected to behave according to professional standards and in accordance with their employer's policies on appropriate workplace behavior.
 
 While at System Reference Document events or related social networking opportunities, attendees should not engage in discriminatory or offensive speech or actions regarding gender, sexuality, race, or religion. Speakers should be especially aware of these concerns.
