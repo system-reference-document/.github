@@ -16,7 +16,7 @@ Project maintainers have the right and responsibility to remove, edit, or reject
 
 This code of conduct applies both within project spaces and in public spaces when an individual is representing the project or its community.
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting a maintainer of the project, Scott McCarty scott@1989games.com, and/or Mike Panetta mike21989games.com.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting a maintainer of the project, Scott McCarty scott@1989games.com, and/or Mike Panetta mike2@1989games.com.
 
 ## System Reference Document Events Code of Conduct
 System Reference Document events are working conferences intended for professional networking and collaboration in the Containers community. Attendees are expected to behave according to professional standards and in accordance with their employer's policies on appropriate workplace behavior.
